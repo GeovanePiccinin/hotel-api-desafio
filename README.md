@@ -9,6 +9,7 @@ Praticar os conceitos de autenticação e autorização seguindo as orientaçõe
 ### Dependências
 
 * As dependências já estão listadas no package.json
+* Dentro da pasta db-script está o código SQL a ser utilizado para criar as tabelas e instâncias em um Banco POSTGRES
 
 ### Instalação
 
