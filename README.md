@@ -6,15 +6,15 @@ Praticar os conceitos de autenticação e autorização seguindo as orientaçõe
 
 ## Getting Started
 
-### Dependencies
+### Dependências
 
 * As dependências já estão listadas no package.json
 
-### Installing
+### Instalação
 
 Faça um clone desse repositório e depois execute: npm install
 
-### Executing program
+### Executando a API
 
 Para rodar a API execute, de dentro da raiz do proejeto: node index.js 
 Recomendado:
