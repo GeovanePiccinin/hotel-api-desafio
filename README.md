@@ -10,6 +10,7 @@ Praticar os conceitos de autenticação e autorização seguindo as orientaçõe
 
 * As dependências já estão listadas no package.json
 * Dentro da pasta db-script está o código SQL a ser utilizado para criar as tabelas e instâncias em um Banco POSTGRES
+* Um arquivo thunder-collection foi uncluído ao projeto para facilitar a testagem dos endpoints.
 
 ### Instalação
 
